@@ -1,5 +1,5 @@
 # Mind-School Demo App #
-Following are four layouts (Basic Frontend)
+Following are four layouts (Basic Frontend) -- Ionic in Angular using Capacitor 
 
 ## Page 1 - Landing Page ## 
 
